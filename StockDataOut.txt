@@ -1,0 +1,6 @@
+Dow  Quantity  Price  StockName
+0 0    0.0 
+0 0    0.0 
+0 0    0.0 
+0 0    0.0 
+The total: 0.0

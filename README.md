@@ -17,5 +17,4 @@ javac Trade.java
 java Trade.java
 
 ```
-
 This project was created in Netbeans

@@ -12,7 +12,7 @@ also it will run the parent class Order and children classes Buy and Sell, and w
 ## Execution:
 Use any JAVA IDE (Netbeans, Eclipse, BlueJ) in order to run or command line:
 ```
-cd Programming-2
+cd CSCI-185-504/src/StockMarket/
 javac Trade.java
 java Trade.java
 

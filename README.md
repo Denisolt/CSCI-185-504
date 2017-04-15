@@ -15,6 +15,5 @@ Use any JAVA IDE (Netbeans, Eclipse, BlueJ) in order to run or command line:
 cd CSCI-185-504/src/StockMarket/
 javac Trade.java
 java Trade.java
-
 ```
 This project was created in Netbeans
